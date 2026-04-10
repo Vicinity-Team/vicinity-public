@@ -2,7 +2,7 @@
 
 ## Reporting vulnerabilities
 
-Email security@vicinity.team. Do not open a public issue for security problems.
+Email info@vicinity.team. Do not open a public issue for security problems.
 
 Include:
 
@@ -12,4 +12,4 @@ Include:
 
 ## Response
 
-We aim to acknowledge reports within 3 business days.
+We aim to acknowledge reports within 10 business days.
